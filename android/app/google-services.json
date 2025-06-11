@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540387312749",
+    "project_id": "flutter-kelompok-185e4",
+    "storage_bucket": "flutter-kelompok-185e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540387312749:android:71ca1ae6806bc7073aeb64",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_baru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2MpM4IJyeOsRV0lSaviuGeGjWXk5fZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
